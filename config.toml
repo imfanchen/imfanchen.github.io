@@ -1,0 +1,4 @@
+baseURL = "https://imfanchen.github.io"
+languageCode = "en-us"
+title = "Fan's CodeSpace"
+theme = "paper"
